@@ -1,34 +1,21 @@
-# Portfolio | NGUYEN THI LAN ANH
+## Portfolio-Website
 
-<!-- Copy toàn bộ HTML của bạn dưới đây -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio | NGUYEN THI LAN ANH</title>
-</head>
-<body>
-    <!-- Chỉ nên để phần tĩnh, ví dụ hero section -->
-    <section class="home" id="home">
-        <h2>Hi There, I'm LAN ANH NGUYEN THI</h2>
-        <p>I am into Front-End Development</p>
-        <a href="#about">About Me</a>
-        <div class="socials">
-            <a href="https://www.linkedin.com/in/lan-anh-nguy%E1%BB%85n-th%E1%BB%8B-b271b1392/" target="_blank">LinkedIn</a>
-            <a href="https://github.com/" target="_blank">GitHub</a>
-        </div>
-    </section>
+Personal portfolio website built using **HTML5, CSS3, JavaScript, and jQuery** to showcase projects, skills, education, and experience.
 
-    <section class="about" id="about">
-        <h2>About Me</h2>
-        <p>I'm LAN ANH, Front-End Developer from Vietnam...</p>
-        <p>Email: xanh255@gmail.com</p>
-        <p>Place: Hải Dương, Vietnam</p>
-        <a href="https://drive.google.com/file/d/1rZiXl562q7aVyk1kJ2nO85YBAq8ixTiw/view" target="_blank">Resume</a>
-    </section>
+[**Visit Live Site** 🚀](https://lanh255.github.io/65KTPM_CNW/)
 
-    <!-- Bạn có thể thêm skills, education, work, experience, contact tĩnh -->
-</body>
-</html>
+### 📌 Tech Stack
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/lanh255/65KTPM_CNW/search?l=html)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/lanh255/65KTPM_CNW/search?l=css)&nbsp;
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/lanh255/65KTPM_CNW/search?l=javascript)
+
+#### Extras : 
+Particle.js, Typed.js, Vanilla Tilt.js, Scroll Reveal, EmailJS, Font Awesome
+
+### Sneak Peek 🙈 :
+![mockup720](./assets/images/hero.png)
+
+### 📬 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lan-anh-nguy%E1%BB%85n-th%E1%BB%8B-b271b1392/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lanh255)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lanh255)
